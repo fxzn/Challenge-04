@@ -1,0 +1,20 @@
+body{
+  align-items: center;
+  align-content: center;
+  place-items: center;
+}
+
+.Movie-rate {
+  text-align: start;
+  color: yellow;
+  text-decoration: underline;
+}
+
+.Movie-genres {
+  text-align: start;
+}
+
+.Icon-star {
+  margin-right: 5px;
+  margin-bottom: 4px;
+}
